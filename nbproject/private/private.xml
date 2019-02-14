@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/application/ControleurUtilisateur.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenVente.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/fenRechercherUser.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenBloquerUser.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/application/ControleurStock.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenListeProduitStock.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenRechercherVente.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenInsererType.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/fenConnexion.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/fenModifierUser.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenProduit.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenMenu.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/FenModifierProduitStock.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/domaine/utlisateur.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/domaine/Vente.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/domaine/Stock.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/presentation/fenAjouterUtilisateur.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/domaine/Produit.java</file>
+            <file>file:/E:/exojava/ProjetGestionProduitStock/src/com/ProjetGestionProduitStock/application/ControleurVente.java</file>
+        </group>
+    </open-files>
+</project-private>
